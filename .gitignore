@@ -1,0 +1,5 @@
+.vscode
+word_iter_benchmark
+word_iter_benchmark.o
+word_iter_test
+word_iter_test.o
